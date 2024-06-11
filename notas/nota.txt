@@ -1,0 +1,7 @@
+para instalar saas
+una vez tenga instalado nodjs
+
+teclear en consola del VSC  npm
+
+y despues teclear
+npm install -g sass
